@@ -1,4 +1,4 @@
-package com.furkan.productserviceapp;
+package com.furkan.productservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.furkan.productserviceapp.model.entity;
+package com.furkan.productservice.model.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
