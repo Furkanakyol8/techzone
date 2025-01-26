@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.furkan</groupId>
-    <artifactId>ProductServiceApp</artifactId>
+    <artifactId>ProductService</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ProductServiceApp</name>
     <description>ProductServiceApp</description>
